@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diogosilva5, a Software Developer (Frontend and Mobile) from Portugal.
 
-- 👀 I’m interested in games, movies and travelling.
+- 👀 I’m interested in games, movies, travelling and sports.
 
 - 🌱 I’m currently learning Remix.
 
